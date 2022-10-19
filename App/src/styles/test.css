@@ -1,0 +1,8 @@
+.testCard{
+    background-color:white;
+}
+
+
+.testCard:hover {
+    padding:1px;
+}
